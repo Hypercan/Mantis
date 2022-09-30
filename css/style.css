@@ -13,3 +13,7 @@
 .regular-font-2 {
     font-family: 'Jost', sans-serif;
 }
+
+.aside-buttons>li {
+    margin-bottom: 10px;
+}
